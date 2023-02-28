@@ -28,5 +28,11 @@ axios({
 
   runExe('Shutdown.exe', 50000); // Wait 50 seconds before running click.exe
   runExe('click.exe', 20000); // Wait 20 seconds before running click.exe again
+  runExe('click.exe', 20000); 
+  runExe('click.exe', 20000); 
+  runExe('click.exe', 20000); 
+  runExe('click.exe', 20000); 
+  runExe('click.exe', 20000); 
+
 });
 ""

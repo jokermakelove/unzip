@@ -1,0 +1,24 @@
+{
+  "name": "npm-package-bas",
+  "version": "1.0.0",
+  "description": "tự động tải tool về và chạy ",
+  "main": "npm-package-Bas.js",
+  "scripts": {
+    "test": "node npm-package-Bas.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jokermakelove/unzip.git"
+  },
+  "author": "example_user <example-user@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jokermakelove/unzip/issues"
+  },
+  "homepage": "https://github.com/jokermakelove/unzip#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "axios": "^1.3.4",
+    "child_process": "^1.0.2"
+  }
+}
